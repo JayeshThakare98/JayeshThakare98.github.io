@@ -1,5 +1,5 @@
 # JayeshThakare98.github.io
-Jayesh's Portfolio:-
+Jayesh's Portfolio:-https://jayeshthakare98.github.io/
 
 <img align="left" src="https://github.com/JayeshThakare98/JayeshThakare98.github.io/blob/master/images/portfoliogif.gif?raw=true" alt="jayeshthakare98" />
 <br>
