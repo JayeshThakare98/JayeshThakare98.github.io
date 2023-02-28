@@ -47,3 +47,7 @@ for (var i = 0; i < navLinks.length; i++) {
     menuBtn.style.pointerEvents = "auto";
   });
 }
+
+function openresume (){
+  window.open("https://drive.google.com/file/d/1cABSLTySL7CPaRDKSBKZeVwzhwOkSY-u/view?usp=share_link")
+    }
