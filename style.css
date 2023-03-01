@@ -605,6 +605,7 @@ footer .text span a:hover{
     width: 100%;
     /* margin-left: -100px; */
   }
+
   .about-details .right{
     width: 90%;
     margin: 40px 0;
@@ -619,6 +620,7 @@ footer .text span a:hover{
     gap: 15px;
     margin: auto;
    }
+
    
 .home{
   height: 100vh;
@@ -646,6 +648,7 @@ footer .text span a:hover{
     #ff1361 67%,
     #fff800 100%
   );
+
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
@@ -668,6 +671,7 @@ footer .text span a:hover{
     display: flex;
     box-sizing: border-box;
   }
+
   #mypic{
     width: 350px;
     height: 350px;
@@ -695,6 +699,7 @@ footer .text span a:hover{
   }
 }
 
+
 @media (max-width: 900px) {
   .about .left img{
     height: 350px;
@@ -717,7 +722,7 @@ footer .text span a:hover{
   
 }
 
-@media (max-width: 750px) {
+@media (max-width: 880px) {
   nav .navbar{
     width: 90%;
   }
@@ -776,6 +781,7 @@ footer .text span a:hover{
   .services .boxes .box{
     margin: 20px 0;
     width: 100%;
+    height: 90%;
   }
   .contact .text{
     width: 100%;
@@ -794,6 +800,7 @@ footer .text span a:hover{
   animation: morph 8s ease-in-out 1s infinite;
 
 }
+
 
 }
 
@@ -865,6 +872,11 @@ footer .text span a:hover{
   background: var(--color);
   color: #fff;
 }
+
+
+
+
+
 
 /* @media () {
   
