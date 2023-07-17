@@ -48,6 +48,6 @@ for (var i = 0; i < navLinks.length; i++) {
   });
 }
 
-function openresume (){
-  window.open("https://drive.google.com/file/d/1cABSLTySL7CPaRDKSBKZeVwzhwOkSY-u/view?usp=share_link")
-    }
+//function openresume (){
+//  window.open("https://drive.google.com/file/d/1cABSLTySL7CPaRDKSBKZeVwzhwOkSY-u/view?usp=share_link")
+ //   }
